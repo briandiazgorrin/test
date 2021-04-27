@@ -20,6 +20,7 @@ char cuponUser[15]; // LO QUE EL USUARIO DIGITE
 void menu();
 void detalles_compra();
  
+//si
  
 // FUNCION PRINCIPAL
 int main()
